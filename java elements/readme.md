@@ -1,114 +1,214 @@
-Practice Programming Questions
-![Banner](./assets the Practice Programming Questions repository! This curated set of beginner-friendly programming exercises is designed to help you master fundamental coding concepts through hands-on practice. Whether you're new to programming or brushing up on basics, these problems will guide you step-by-step.
+Practice Programming Questions – README
+This repository contains a collection of beginner-level programming problems designed for practice and learning. Each problem includes a clear statement, input/output specifications, and hints to guide you in implementing the solution. Below is a summary of all questions included.
 
-🚀 Overview
-28 beginner-level programming challenges
+Questions Overview
+1. Average Percentage in PCM
 
-Covers arithmetic, type conversion, input/output, and logic
+Calculate the average percent mark for Sam in Maths (94), Physics (95), and Chemistry (96).
 
-Perfect for students, self-learners, and coding bootcamp participants
+Output: Sam’s average mark in PCM is ___
 
-📚 Table of Contents
-Getting Started
+2. Divide Pens Equally
 
-List of Questions
+Divide 14 pens equally among 3 students. Find pens per student and remaining pens.
 
-How to Use
+Output: The Pen Per Student is ___ and the remaining pen not distributed is ___
 
-Sample Code Snippet
+3. Volume of Earth
 
-Contributing
+Compute the volume of Earth in km³ and miles³ (radius = 6378 km).
 
-License
+Output: The volume of earth in cubic kilometers is ____ and cubic miles is ____
 
-🏁 Getting Started
-To get started, simply pick any question below, read the problem statement, and implement your solution in your favorite programming language. Most problems include hints to help you along the way.
+4. Kilometers to Miles Converter
 
-📝 List of Questions
-#	Topic	Description	Input(s)	Output Example
-1	Average Percentage in PCM	Calculate Sam’s average mark in Maths, Physics, Chemistry	None	Sam’s average mark in PCM is ___
-2	Divide Pens Equally	Distribute 14 pens among 3 students	None	The Pen Per Student is ___ and remaining pen is ___
-3	Volume of Earth	Compute Earth's volume in km³ and miles³	None	The volume of earth in cubic kilometers is ___ and ___
-4	Kilometers to Miles Converter	Convert distance from km to miles	km	The total miles is ___ mile for the given ___ km
-5	Course Fee Discount	Calculate 10% discount on course fee	None	The discount amount is INR ___ and final fee is INR ___
-6	Calculate Age	Find age given birth year and current year	None	Harry's age in 2024 is ___
-7	Convert 10.8 km to Miles	Convert 10.8 km to miles	None	The distance ___ km in miles is ___
-8	Profit and Profit Percentage	Calculate profit and profit percentage	None	The Profit is INR ___ and the Profit Percentage is ___
-9	Height Conversion	Convert height from cm to feet and inches	height	Your Height in cm is ___, in feet is ___, in inches is ___
-10	Custom Fee Discount	Compute discount on user-input fee and percent	fee, discount	The discount amount is INR ___ and final fee is INR ___
-...	...	...	...	...
-<details> <summary>Click to view all 28 questions</summary>
-11. Feet to Yards and Miles: Convert feet to yards and miles
+Convert user-input distance in kilometers to miles (1 mile = 1.6 km).
 
-12. Total Purchase Price: Calculate total price from unit price and quantity
+Input: km
 
-13. Quotient and Remainder: Print quotient and remainder of two numbers
+Output: The total miles is ___ mile for the given ___ km
 
-14. Double Operations: Perform arithmetic with doubles
+5. Course Fee Discount
 
-15. Basic Calculator: Add, subtract, multiply, and divide two floats
+Calculate discounted amount and final fee for INR 125,000 with 10% discount.
 
-16. Integer Operations: Perform arithmetic with integers
+Output: The discount amount is INR ___ and final discounted fee is INR ___
 
-17. Triangle Area: Calculate area in sq. inches and sq. cm
+6. Calculate Age
 
-18. Side of Square from Perimeter: Find side length from perimeter
+Find Harry’s age if born in 2000 and current year is 2024.
 
-19. Athlete’s Rounds in Triangular Park: Calculate rounds to complete 5km
+Output: Harry's age in 2024 is ___
 
-20. Total Income Calculation: Add salary and bonus
+7. Convert 10.8 km to Miles
 
-21. Simple Interest: Calculate simple interest
+Convert 10.8 kilometers to miles (1 km = 1.6 miles).
 
-22. Celsius to Fahrenheit: Convert temperature
+Output: The distance ___ km in miles is ___
 
-23. Maximum Handshakes: Calculate max handshakes among N students
+8. Profit and Profit Percentage
 
-24. Travel Distance and Time: Sum distances and times between cities
+Calculate profit and profit percentage for cost price INR 129 and selling price INR 191.
 
-25. Divide Chocolates: Distribute chocolates among children
+Output: The Cost Price is INR ___ and the Selling Price is INR ___
+The Profit is INR ___ and the Profit Percentage is ___
 
-26. Fahrenheit to Celsius: Convert temperature
+9. Height Conversion
 
-27. Swap Two Numbers: Swap two numbers
+Convert user-input height in cm to feet and inches (1 foot = 12 inches, 1 inch = 2.54 cm).
 
-28. Pounds to Kilograms: Convert pounds to kg
+Input: height
 
-</details>
-💡 How to Use
-Choose a question from the list above.
+Output: Your Height in cm is ___ while in feet is ___ and inches is ___
 
-Read the problem statement and hints.
+10. Custom Fee Discount
 
-Implement the solution in your preferred language.
+Calculate discounted amount and final fee based on user-input fee and discount percent.
 
-Test your code with different inputs.
+Input: fee, discountPercent
 
-Check the expected output format.
+Output: The discount amount is INR ___ and final discounted fee is INR ___
 
-🖼️ Visual Example
-![Sample Flowchart](./assets/sample-flowchart flowcharts or diagrams can help you understand the logic. Feel free to add your own!*
+11. Feet to Yards and Miles
 
-💻 Sample Code Snippet
-java
-// Example: Calculate average marks
-int maths = 94, physics = 95, chemistry = 96;
-double average = (maths + physics + chemistry) / 3.0;
-System.out.println("Sam’s average mark in PCM is " + average);
-🤝 Contributing
-Contributions are welcome! If you have new questions, improvements, or code samples, feel free to open a pull request.
+Convert user-input distance in feet to yards and miles (1 mile = 1760 yards, 1 yard = 3 feet).
 
-📜 License
-This project is licensed under the MIT License.
+Input: distanceInFeet
 
-Tips for an Attractive README:
+Output: The distance in yards is ___ while the distance in miles is ___
 
-Use clear headings, bullet points, and tables for easy navigation
+12. Total Purchase Price
 
-Add images, banners, or GIFs to break up text and illustrate concepts
+Calculate total purchase price from unit price and quantity.
 
-Keep instructions concise and beginner-friendly
+Input: unitPrice, quantity
 
-Include sample code and visuals where possible for better understanding
+Output: The total purchase price is INR ___ if the quantity ___ and the unit price is INR ___
 
-Happy Coding! 
+13. Quotient and Remainder
+
+Take two numbers and print their quotient and remainder.
+
+Input: number1, number2
+
+Output: The Quotient is ___ and Reminder is ___ of two number ___ and ___
+
+14. Double Operations
+
+Perform and print results of operations: a + b * c, a * b + c, c + a / b, and a % b + c with double inputs.
+
+Input: a, b, c (double)
+
+Output: The results of Double Operations are ___, ___, and ___
+
+15. Basic Calculator
+
+Perform addition, subtraction, multiplication, and division on two floating-point numbers.
+
+Input: number1, number2
+
+Output: The addition, subtraction, multiplication, and division value of 2 numbers ___ and ___ is ___, ____, ____, and ___
+
+16. Integer Operations
+
+Perform and print results of operations: a + b * c, a * b + c, c + a / b, and a % b + c with integer inputs.
+
+Input: a, b, c (int)
+
+Output: The results of Int Operations are ___, ___, and ___
+
+17. Triangle Area
+
+Calculate the area of a triangle in square inches and square centimeters from base and height in cm.
+
+Input: base, height
+
+Output: The Area of the triangle in sq in is ___ and sq cm is ___
+
+18. Side of Square from Perimeter
+
+Find the side length of a square given its perimeter.
+
+Input: perimeter
+
+Output: The length of the side is ___ whose perimeter is ____
+
+19. Athlete’s Rounds in Triangular Park
+
+Given sides of a triangular park, calculate how many rounds are needed to complete 5 km.
+
+Input: side1, side2, side3
+
+Output: The total number of rounds the athlete will run is ___ to complete 5 km
+
+20. Total Income Calculation
+
+Calculate total income from user-input salary and bonus.
+
+Input: salary, bonus
+
+Output: The salary is INR ___ and the bonus is INR ___. Hence Total Income is INR ___
+
+21. Simple Interest
+
+Calculate simple interest from user-input principal, rate, and time.
+
+Input: principal, rate, time
+
+Output: The Simple Interest is ___ for Principal ___, Rate of Interest ___ and Time ___
+
+22. Celsius to Fahrenheit
+
+Convert user-input Celsius temperature to Fahrenheit.
+
+Input: celsius
+
+Output: The ____ celsius is _____ fahrenheit
+
+23. Maximum Handshakes
+
+Calculate maximum number of handshakes among N students.
+
+Input: numberOfStudents
+
+Output: The number of possible handshakes is ___
+
+24. Travel Distance and Time
+
+Rewrite a sample program to take user inputs for name, cities, distances, and times, and output total distance and time.
+
+Input: name, fromCity, viaCity, toCity, fromToVia, viaToFinalCity, timeFromToVia, timeViaToFinalCity
+
+Output: The Total Distance travelled by ___ from ___ to ___ via ___ is ___ km and the Total Time taken is ___ minutes
+
+25. Divide Chocolates
+
+Divide N chocolates among M children and find how many each gets and the remainder.
+
+Input: numberOfchocolates, numberOfChildren
+
+Output: The number of chocolates each child gets is ___ and the number of remaining chocolates is ___
+
+26. Fahrenheit to Celsius
+
+Convert user-input Fahrenheit temperature to Celsius.
+
+Input: fahrenheit
+
+Output: The ____ fahrenheit is _____ celsius
+
+27. Swap Two Numbers
+
+Swap two user-input numbers and print the result.
+
+Input: number1, number2
+
+Output: The swapped numbers are ___ and ___
+
+28. Pounds to Kilograms
+
+Convert user-input weight in pounds to kilograms (1 pound = 2.2 kg).
+
+Input: weight
+
+Output: The weight of the person in pounds is ___ and in kg is ___
