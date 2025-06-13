@@ -1,6 +1,6 @@
-# Assisted & Self Practice Problems
+# Practice Programming Problems
 
-Welcome to the **Assisted & Self Practice Problems** repository! This collection is designed to help you master basic programming concepts through hands-on coding exercises. Problems are clearly labeled for easy reference and organized into two sections: Assisted Problems (AP1, AP2, etc.) and Self Problems (SP1, SP2, etc.).
+Welcome! This repository contains a collection of beginner-level programming exercises. Problems are grouped as **Assisted Problems** and **Self Problems**, and each is labeled as Problem 1, Problem 2, etc., for easy reference.
 
 ---
 
@@ -15,33 +15,33 @@ Welcome to the **Assisted & Self Practice Problems** repository! This collection
 
 ---
 
-## 🚀 Assisted Problems
+## 🟦 Assisted Problems
 
-| Problem | Statement |
-|---------|-----------|
-| **AP1** | **Welcome to Bridgelabz!**<br>Write a program that prints "Welcome to Bridgelabz!" to the screen. |
-| **AP2** | **Add Two Numbers**<br>Write a program that takes two numbers as input from the user and prints their sum. |
-| **AP3** | **Celsius to Fahrenheit Conversion**<br>Write a program that takes the temperature in Celsius as input and converts it to Fahrenheit using the formula:<br>Fahrenheit = (Celsius * 9/5) + 32. |
-| **AP4** | **Area of a Circle**<br>Write a program to calculate the area of a circle. Take the radius as input and use the formula:<br>Area = π * radius². |
-| **AP5** | **Volume of a Cylinder**<br>Write a program to calculate the volume of a cylinder. Take the radius and height as inputs and use the formula:<br>Volume = π * radius² * height. |
+| Problem    | Statement |
+|------------|-----------|
+| **Problem 1** | **Welcome to Bridgelabz!**<br>Write a program that prints "Welcome to Bridgelabz!" to the screen. |
+| **Problem 2** | **Add Two Numbers**<br>Write a program that takes two numbers as input from the user and prints their sum. |
+| **Problem 3** | **Celsius to Fahrenheit Conversion**<br>Write a program that takes the temperature in Celsius as input and converts it to Fahrenheit using the formula:<br>Fahrenheit = (Celsius * 9/5) + 32. |
+| **Problem 4** | **Area of a Circle**<br>Write a program to calculate the area of a circle. Take the radius as input and use the formula:<br>Area = π * radius². |
+| **Problem 5** | **Volume of a Cylinder**<br>Write a program to calculate the volume of a cylinder. Take the radius and height as inputs and use the formula:<br>Volume = π * radius² * height. |
 
 ---
 
-## 💡 Self Problems
+## 🟩 Self Problems
 
-| Problem | Statement |
-|---------|-----------|
-| **SP1** | **Calculate Simple Interest**<br>Write a program to calculate simple interest using the formula: Simple Interest = (Principal * Rate * Time) / 100. Take Principal, Rate, and Time as inputs from the user. |
-| **SP2** | **Perimeter of a Rectangle**<br>Write a program to calculate the perimeter of a rectangle. Take the length and width as inputs and use the formula:<br>Perimeter = 2 * (length + width). |
-| **SP3** | **Power Calculation**<br>Write a program that takes two numbers as input: a base and an exponent, and prints the result of base raised to the exponent (without using loops or conditionals). |
-| **SP4** | **Calculate Average of Three Numbers**<br>Write a program that takes three numbers as input from the user and prints their average. |
-| **SP5** | **Convert Kilometers to Miles**<br>Write a program that takes the distance in kilometers as input from the user and converts it into miles using the formula:<br>Miles = Kilometers * 0.621371. |
+| Problem    | Statement |
+|------------|-----------|
+| **Problem 1** | **Calculate Simple Interest**<br>Write a program to calculate simple interest using the formula: Simple Interest = (Principal * Rate * Time) / 100. Take Principal, Rate, and Time as inputs from the user. |
+| **Problem 2** | **Perimeter of a Rectangle**<br>Write a program to calculate the perimeter of a rectangle. Take the length and width as inputs and use the formula:<br>Perimeter = 2 * (length + width). |
+| **Problem 3** | **Power Calculation**<br>Write a program that takes two numbers as input: a base and an exponent, and prints the result of base raised to the exponent (without using loops or conditionals). |
+| **Problem 4** | **Calculate Average of Three Numbers**<br>Write a program that takes three numbers as input from the user and prints their average. |
+| **Problem 5** | **Convert Kilometers to Miles**<br>Write a program that takes the distance in kilometers as input from the user and converts it into miles using the formula:<br>Miles = Kilometers * 0.621371. |
 
 ---
 
 ## 🏁 How to Use
 
-- **Choose a problem** (e.g., AP2, SP4).
+- **Choose a problem** from Assisted or Self Problems.
 - **Read the statement** and understand the requirements.
 - **Write your code** in your preferred programming language.
 - **Test** with sample inputs and compare your output with the expected result.
