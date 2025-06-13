@@ -31,22 +31,13 @@ Welcome! This repository contains a collection of beginner-level programming exe
 
 | Problem    | Statement |
 |------------|-----------|
-| **Problem 1** | **Calculate Simple Interest**<br>Write a program to calculate simple interest using the formula: Simple Interest = (Principal * Rate * Time) / 100. Take Principal, Rate, and Time as inputs from the user. |
-| **Problem 2** | **Perimeter of a Rectangle**<br>Write a program to calculate the perimeter of a rectangle. Take the length and width as inputs and use the formula:<br>Perimeter = 2 * (length + width). |
-| **Problem 3** | **Power Calculation**<br>Write a program that takes two numbers as input: a base and an exponent, and prints the result of base raised to the exponent (without using loops or conditionals). |
-| **Problem 4** | **Calculate Average of Three Numbers**<br>Write a program that takes three numbers as input from the user and prints their average. |
-| **Problem 5** | **Convert Kilometers to Miles**<br>Write a program that takes the distance in kilometers as input from the user and converts it into miles using the formula:<br>Miles = Kilometers * 0.621371. |
+| **Problem 6** | **Calculate Simple Interest**<br>Write a program to calculate simple interest using the formula: Simple Interest = (Principal * Rate * Time) / 100. Take Principal, Rate, and Time as inputs from the user. |
+| **Problem 7** | **Perimeter of a Rectangle**<br>Write a program to calculate the perimeter of a rectangle. Take the length and width as inputs and use the formula:<br>Perimeter = 2 * (length + width). |
+| **Problem 8** | **Power Calculation**<br>Write a program that takes two numbers as input: a base and an exponent, and prints the result of base raised to the exponent (without using loops or conditionals). |
+| **Problem 9** | **Calculate Average of Three Numbers**<br>Write a program that takes three numbers as input from the user and prints their average. |
+| **Problem 10** | **Convert Kilometers to Miles**<br>Write a program that takes the distance in kilometers as input from the user and converts it into miles using the formula:<br>Miles = Kilometers * 0.621371. |
 
 ---
 
-## 🏁 How to Use
 
-- **Choose a problem** from Assisted or Self Problems.
-- **Read the statement** and understand the requirements.
-- **Write your code** in your preferred programming language.
-- **Test** with sample inputs and compare your output with the expected result.
-
----
-
-## 💻 Sample Code
 
